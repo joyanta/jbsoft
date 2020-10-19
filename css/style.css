@@ -63,3 +63,8 @@ footer.page-footer {
 .custom-text-colour {
   color:#ef5350
 }
+
+
+.navbar-fixed {
+  z-index: 999; 
+}
